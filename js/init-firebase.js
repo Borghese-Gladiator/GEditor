@@ -1,13 +1,13 @@
 /* eslint-disable no-undef */
 // add firebase project configuration here
 const config = {
-	apiKey: 'AIzaSyAotiw6-oVs_khbR8wcZjun_jp4Ega2I3k',
-	authDomain: 'docs-clone.firebaseapp.com',
-	databaseURL: 'https://docs-clone.firebaseio.com',
-	projectId: 'docs-clone',
-	storageBucket: 'docs-clone.appspot.com',
-	messagingSenderId: '849864268762',
-	appId: '1:849864268762:web:4390029e600da9c64ffee3'
+	apiKey: "AIzaSyCsFJMX24pJYA_w4iCBPf9QejtCm690Bgc",
+	authDomain: "doc-clone-eb408.firebaseapp.com",
+	projectId: "doc-clone-eb408",
+	storageBucket: "doc-clone-eb408.appspot.com",
+	messagingSenderId: "119909314712",
+	appId: "1:119909314712:web:3b161fcdba1c5cfa51e0ed",
+	measurementId: "G-4GK3D7HL6S"
 };
 
 firebase.initializeApp(config);
